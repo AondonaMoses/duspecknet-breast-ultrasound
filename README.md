@@ -72,7 +72,7 @@ Each split is described by a `manifest.csv` with columns `case_id, image, mask, 
 
 ## Usage
 
-> The scripts below describe the **full pipeline that will be released after the conference**. For now, the core implementation is available as a **Kaggle notebook**: [add link here].
+> The scripts below describe the **full pipeline that will be released after the conference**. For now, the core implementation is available as a **Kaggle notebook**.
 
 Train a configuration:
 
